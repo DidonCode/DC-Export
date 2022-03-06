@@ -1,0 +1,31 @@
+table.Service-icon tr td div.icon i{
+	font-size: 28px; 
+	padding: 25px; 
+	color: hsl(209, 100%, 50%); 
+	background-color: hsla(209, 100%, 90%, 1.00); 
+	border-radius: 20px;
+}
+
+#Reseaux{
+	font-size: 40px;  
+	color: white;
+}
+
+table.Service-icon tr td div{
+	display: inline-flex;
+}
+
+table.Service-icon tr td{
+	padding: 50px;
+	max-width: 350px;
+}
+
+table.Service-icon tr td h2{
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+table.Contacte tr td{
+	border-spacing: 0px;
+	padding-left: 0px;
+}
